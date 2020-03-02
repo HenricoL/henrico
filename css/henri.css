@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
+body {
+    font-size: 1.5em;
+    font-family: 'Trade Winds';
+}
+
+.text-title {
+    font-family: 'Trade Winds';
+    font-size: 3em;
+    color: aqua
+}
+
+.bg-title {
+    background-image: linear-gradient(to bottom right, #C4E538, #1B1464);
+}
+
+.text-subtitle {
+    font-family: 'Lacquer';
+    color: aqua;
+    font-size: 1.2em;
+}

@@ -7,16 +7,29 @@ body {
 
 .text-title {
     font-family: 'Trade Winds';
-    font-size: 3em;
-    color: aqua
+    font-size: 4em;
+    color:#D980FA;
 }
 
 .bg-title {
-    background-image: linear-gradient(to bottom right, #C4E538, #1B1464);
+    background-image: linear-gradient(to bottom right, #0652DD, #EA2027);
+    background: url('../img/space.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    background: url('../img/space.jpg') center center no-repeat;    
 }
 
 .text-subtitle {
     font-family: 'Lacquer';
-    color: aqua;
-    font-size: 1.2em;
+    color:#D980FA;
+    font-size: 2em;
+}
+
+.bg-menu{
+    background-color: #5758BB;
+}
+
+.bg-footer {
+    background: #5758BB;
+    color:#D980FA;
 }
